@@ -1,4 +1,4 @@
-I'm a hobby programmer and like to develop with Java. I create discord bots and Minecraft Paper Plugins.
+I'm a hobby programmer and like to develop with Java. I create Discord bots and Minecraft Paper Plugins.
   
 - You can reach me via **Discord:** [**JJJannik#3333**](https://discord.com/users/661151077600722947)
 
@@ -8,3 +8,6 @@ I'm a hobby programmer and like to develop with Java. I create discord bots and 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJJannik&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </a>
+
+
+My GitHub profile isn't finished yet so it's quiet empty here at the moment...
