@@ -1,6 +1,6 @@
 I'm a hobby programmer and like to develop with Java. I create Discord bots and Minecraft Paper Plugins.
   
-- You can reach me via **Discord:** [**JJJannik#3333**](discord://-/users/661151077600722947)
+- You can reach me via **Discord:** [**JJJannik#3196**](discord://-/users/661151077600722947)
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JJJannik&layout=compact&hide=stars&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
